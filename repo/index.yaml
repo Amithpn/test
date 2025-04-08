@@ -1,0 +1,47 @@
+apiVersion: v1
+entries:
+  backend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-08T21:05:27.731999564+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 39330c6906771f134f37b38f30ccdcc74986f924758e3bff96285b6b49d89002
+    name: backend
+    type: application
+    urls:
+    - https://yourdomain.com/helm/backend-0.1.0.tgz
+    version: 0.1.0
+  client:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-08T21:05:27.732380735+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 728740cfb858e449b8d612cce501f0d3cc8f0ac9bde3c8e2ff14983d91bd3ea3
+    name: client
+    type: application
+    urls:
+    - https://yourdomain.com/helm/client-0.1.0.tgz
+    version: 0.1.0
+  frontend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-08T21:05:27.732762007+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 288f83e79b55efc1fd5968c0233a2d47e4c996e1835dc240ba27e26f0cfeefc5
+    name: frontend
+    type: application
+    urls:
+    - https://yourdomain.com/helm/frontend-0.1.0.tgz
+    version: 0.1.0
+  server:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-08T21:05:27.733135443+05:30"
+    description: A Helm chart for Kubernetes
+    digest: cf3447ff2a8cfa2cadf4413e76b7a98dff8211104ae6455144de2e48d57ab4ab
+    name: server
+    type: application
+    urls:
+    - https://yourdomain.com/helm/server-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-08T21:05:27.731494877+05:30"
